@@ -1,0 +1,81 @@
+.main{
+    position: relative;
+width: 1350px;
+height: 800px;
+
+background: linear-gradient(72.99deg, #262626 0%, rgba(38, 38, 38, 0.6) 99.8%);
+
+
+}
+
+#header{
+    width: 400px;
+    height: 40px;
+ padding-left: 600px;
+ color: white;
+ text-decoration: none;
+ 
+
+}
+#content{
+    width: 552px;
+height: 183px;
+top: 201px;
+left: 117px;
+gap: 0px;
+opacity: 0px;
+
+
+font-family: Roboto;
+font-size: 52px;
+font-weight: 700;
+line-height: 60.94px;
+text-align: left;
+
+font-family: Roboto;
+font-size: 52px;
+font-weight: 700;
+line-height: 60.94px;
+text-align: left;
+
+}
+#button{
+    width: Fixed (150px)px;
+height: Fixed (40px)px;
+top: 32px;
+left: 1173px;
+padding: 5px 26px 5px 26px;
+gap: 10px;
+border-radius: 5px 0px 0px 0px;
+border: 1px 0px 0px 0px;
+opacity: 0px;
+border: 1px solid #FFFFFF;
+padding-right: 20px;
+ 
+
+
+
+}
+.image{
+    width: 398px;
+height: 289px;
+text-align: right;
+padding-top: 40px;
+}
+.control{width: 466px;
+    height: 72px;
+    top: 448px;
+    left: 117px;
+    gap: 0px;
+    opacity: 0px;
+    font-family: Roboto;
+font-size: 18px;
+font-weight: 400;
+line-height: 24px;
+text-align: left;
+background: (72.99deg, #262626 0%, rgba(38, 38, 38, 0.6) 99.8%);
+color: #FFFFFF;
+padding-left: 60px;
+padding-top: 30px;
+
+    }
